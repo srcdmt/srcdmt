@@ -5,6 +5,7 @@
     <img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <br>
-    <img src="https://starchart.cc/{username}/{repo}.svg">
+    
 </div>
 
+<img src="https://starchart.cc/{username}/{repo}.svg">
